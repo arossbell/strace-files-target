@@ -1,0 +1,5 @@
+[package]
+name = "strace-files-target"
+version = "1.0.0"
+authors = ["Adam R Bell <a_0x07@protonmail.ch>"]
+edition = "2018"
